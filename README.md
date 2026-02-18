@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/restuarant-menu-card)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/restuarant-menu-card?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/restuarant-menu-card?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Restuarent-Menu-Card)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Restuarent-Menu-Card?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Restuarent-Menu-Card?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://restuarent-menu-card.vercel.app/)
 
@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman%20Arshad-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/muhammad-salmanarshad/)
 [![Figma](https://img.shields.io/badge/Figma-codewithsalman-black?style=social&logo=figma)](https://www.figma.com/@codewithsalman)
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
-
-<br />
 
 <br />
 
