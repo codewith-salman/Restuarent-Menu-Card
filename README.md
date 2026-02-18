@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/restaurant-menu-card)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/restaurant-menu-card?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/restaurant-menu-card?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/restuarant-menu-card)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/restuarant-menu-card?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/restuarant-menu-card?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://restuarent-menu-card.vercel.app/)
 
@@ -17,10 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Restuarent%20Menu%20Card/assets/images/logo.png" alt="Restaurant Menu Card Logo" width="120"/>
-
-<br />
 <br />
 
 <h1 align="center">📋 Restaurant Menu Card</h1>
