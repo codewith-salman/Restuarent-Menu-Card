@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-
 <h1 align="center">📋 Restaurant Menu Card</h1>
 
 A clean, modern, and responsive **Restaurant Menu Card UI Component**  
@@ -57,8 +56,6 @@ This project is ideal for:
 
 This is a **front-end only project**, built for learning, UI practice, and portfolio showcasing — no backend integration included.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -69,9 +66,7 @@ This is a **front-end only project**, built for learning, UI practice, and portf
 - Elegant typography and spacing  
 - Lightweight and fast-loading  
 - Easy to customize menu items  
-- Reusable UI component  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Reusable UI component 
 
 ---
 
@@ -80,9 +75,7 @@ This is a **front-end only project**, built for learning, UI practice, and portf
 This project is built using:
 
 - **HTML5**  
-- **CSS3**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- **CSS3** 
 
 ---
 
