@@ -65,8 +65,7 @@ This is a **front-end only project**, built for learning, UI practice, and portf
 - Clear food item and price presentation  
 - Elegant typography and spacing  
 - Lightweight and fast-loading  
-- Easy to customize menu items  
-- Reusable UI component 
+- Easy to customize menu items 
 
 ---
 
